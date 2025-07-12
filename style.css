@@ -1,0 +1,20 @@
+* {
+    margin: 10px;;
+    padding:50;
+    box-sizing: boarder-box;
+    background-color:lemonchiffon;
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    line-height:36px;
+}
+h1{
+    color:whitesmoke;
+    background-color: burlywood;
+
+}
+
+
+
